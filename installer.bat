@@ -2,6 +2,6 @@
 pip install os
 pip install pyautogui
 @echo. 
-@echo If error for first type "pip install pyautogui" in pycharm. Same goes for os. "pip install os"
+@echo If an error occures for the first pip install, type "pip install pyautogui" in pycharm. Same goes for the second one `os`. "pip install os"
 @echo.
 pause
